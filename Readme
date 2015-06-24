@@ -1,0 +1,5 @@
+关于如何获取DesiredCapabilities的信息：
+1、到D:\android-sdk\sdk\tools目录下启动hierarchyviewer.bat
+2、com.android.calculator2/com.android.calculator2.Calculator
+3、依据第二条，前者表示：Package 后者表示:Activity 
+4、抓取元素为:uiautomatorviewer.bat
